@@ -58,6 +58,16 @@ body {
 	background-size:cover;
 }
 
+#history a {
+	color:#C63D0F;
+	text-decoration:none;
+}
+
+#history a:hover {
+	font-weight:bold;
+	text-shadow: 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black;
+}
+
 #test {
 	width:30%;
 	background-color:#DFE2DB;
